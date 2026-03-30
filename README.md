@@ -11,19 +11,19 @@ An end-to-end AI-powered fashion assistant that analyses your skin tone, detects
 ## ✨ Key Features
 
 - **🎨 Color Season Analysis** — Detects skin undertone and maps you to Spring / Summer / Autumn / Winter using MobileNetV2 + OpenCV skin segmentation
-- 
+  
 - **📐 Body Type Classification** — Identifies your body shape from measurements or a photo using IJCST-derived algorithms (7 shape classes)
-- 
+  
 - **👗 Virtual Try-On Advisor** — Recommends outfit combinations by season, garment type, and occasion across 9 style contexts
-- 
+  
 - **⭐ Outfit Rater** — Scores your outfit 0–100 with star rating, verdict, pros, and personalized tips using EfficientNetB0
-- 
+ 
 - **😊 Mood-Based Styling** — 8 mood archetypes with curated palettes, outfit suggestions, and makeup guides grounded in color psychology
-- 
+  
 - **🔥 Compatibility Heatmap** — Pre-computed 8×8 matrix scoring top/bottom clothing pairings from 0–100
-- 
+  
 - **📦 Batch Processing** — Upload a CSV of outfit data and get predictions in bulk
-- 
+  
 - **💾 Scan History** — Every analysis is timestamped and saved so you can track your style over time
 
 ---
