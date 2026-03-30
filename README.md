@@ -4,7 +4,7 @@
 FURISTIC is an AI-powered fashion assistant that uses computer vision and deep learning to analyze color season, body type, and outfits. Built with FastAPI, it works fully offline with smart fallbacks, offering personalized styling advice, outfit ratings, and recommendations without external APIs.
 An end-to-end AI-powered fashion assistant that analyses your skin tone, detects your body type, rates your outfits, and recommends what to wear — all running locally with **no API keys required**. Built using computer vision, deep learning, and curated styling logic trained on real color science and fashion research.
 
-**Live Demo:** [https://furistic.streamlit.app](https://furistic.streamlit.app) *(update with your link)*
+**Live Demo:** [https://github.com/ammakollaPrasanna/FURISTIC-FASHION-BOT]
 
 ---
 
